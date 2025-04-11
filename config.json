@@ -14,10 +14,10 @@
         "run": "bot.py"
     },
     "bot3": {
-        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
+        "source": "https://github.com/Ur-amit-01/Post-Manager.git",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "8113183687:AAG4EYlhk5jlSgHCobLIqjsKW_lUIseKVMs"
         },
-        "run": ""
+        "run": "bot.py"
     }
 }
